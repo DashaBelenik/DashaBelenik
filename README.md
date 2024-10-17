@@ -21,12 +21,14 @@
 - [Test-Cases]
 - [Bug-Reports]
 - [TRR](https://docs.google.com/document/d/1IyRFnBFGJu-GGxUVvG5ddXrPgvG8yJrl/edit#heading=h.1kvo0e5pwmr6)
-- [SQl Requests]
-- [Postman Collections]
+- [SQl Requests](https://drive.google.com/file/d/1uk0TgltbYIivv1VkGS__BJoCzLsuTRFW/view?usp=sharing)
+- [Postman Collections](https://drive.google.com/file/d/1lNJ3XlkQNc74MejGMJCv7ozRHE2Cn0H-/view?usp=sharing)
 
 
 
 ## Follow me 
+
+
 <!--
 **DashaBelenik/DashaBelenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
