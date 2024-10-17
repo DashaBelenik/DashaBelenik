@@ -7,7 +7,7 @@
 ## Languages
 
 ## Skills and Tools
-![Jira](https://img.shields.io/badge/-Jira-#1E90FF?style=for-the-badge&logo=linkedin)
+![Jira](https://img.shields.io/badge/Jira-grey?style=for-the-badge&logo=jira)
 
 ## Portfolio
 
