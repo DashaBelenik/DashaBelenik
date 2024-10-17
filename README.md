@@ -34,8 +34,10 @@
 
 
 ## Follow me 
-
-
+[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/darya-bialenik-619994332)
+[Gmail](https://img.shields.io/badge/dasha.belenik@gmail.com-white?style=for-the-badge&logo=gmail)
+[Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)(https://t.me/Belochka_02)
+[Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram)(https://www.instagram.com/dasha_belenik/#)
 
 
 <!--
