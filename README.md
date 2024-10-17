@@ -12,8 +12,19 @@
 ## Skills and Tools
 ![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=JiraSoftware&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/Confluence-white?style=for-the-badge&logo=Confluence&logoColor=blue)
+![Qase](https://img.shields.io/badge/Qase-white?style=for-the-badge&logo=Qase&logoColor=00008B)
+![Zephyr](https://img.shields.io/badge/Zephyr-white?style=for-the-badge&logo=TestsZephyr&logoColor=blue)
 
-## Portfolio
+## Test documentation
+- [Test Plan](https://docs.google.com/document/d/1QXU1HP3SWJJHkqg90n_vTQ4l62gn2-Zm/edit?usp=drive_link&ouid=116576663011629519024&rtpof=true&sd=true)
+- [Checklists](https://docs.google.com/spreadsheets/d/13nCwu8WHjFtG7CVCVFDXGJaEPsAmbG2P-X4OHXYnhPo/edit?usp=sharing)
+- [Test-Cases]
+- [Bug-Reports]
+- [TRR](https://docs.google.com/document/d/1IyRFnBFGJu-GGxUVvG5ddXrPgvG8yJrl/edit#heading=h.1kvo0e5pwmr6)
+- [SQl Requests]
+- [Postman Collections]
+
+
 
 ## Follow me 
 <!--
