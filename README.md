@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+## I am a beginner QA engineer. An open, cheerful person. I have such personal qualities as responsibility, perseverance, attentiveness, punctuality, stress resistance. I have experience in teamwork in the field of trade and in working on the final project on testing courses. I am looking for a job to start my career in the field of IT. 
+
+## My CV 
+
+## Languages
+
+## Skills and Tools
+
+## Portfolio
+
+## Follow me 
 <!--
 **DashaBelenik/DashaBelenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
