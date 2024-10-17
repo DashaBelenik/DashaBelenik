@@ -7,7 +7,7 @@
 ## Languages
 
 ## Skills and Tools
-![Jira](https://img.shields.io/badge/Jira-grey?style=for-the-badge&logo=Jira)
+![Jira](https://img.shields.io/badge/Jira-grey?style=for-the-badge&logo=WildBerries)
 
 ## Portfolio
 
