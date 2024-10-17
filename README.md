@@ -6,6 +6,8 @@
 https://drive.google.com/file/d/18uNv7ZqZprwVte0dIwQLtCVIwvDdhyQ3/view?usp=sharing
 
 ## Languages
+English - A2
+Russian is a native language
 
 ## Skills and Tools
 ![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=JiraSoftware&logoColor=blue)
