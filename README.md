@@ -7,7 +7,8 @@
 ## Languages
 
 ## Skills and Tools
-![Jira](https://img.shields.io/badge/Jira-grey?style=for-the-badge&logo=Confluence)
+![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=JiraSoftware&logoColor=blue)
+![Confluence](https://img.shields.io/badge/Confluence-white?style=for-the-badge&logo=Confluence&logoColor=blue)
 
 ## Portfolio
 
