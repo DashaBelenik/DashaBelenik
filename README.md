@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am a beginner QA engineer. An open, cheerful person. I have such personal qualities as responsibility, perseverance, attentiveness, punctuality, stress resistance. I have experience in teamwork in the field of trade and in working on the final project on testing courses. I am looking for a job to start my career in the field of IT. 
+### I am a beginner QA engineer. An open, cheerful person. I have such personal qualities as responsibility, perseverance, attentiveness, punctuality, stress resistance. I have experience in teamwork in the field of trade and in working on the final project on testing courses. I am looking for a job to start my career in the field of IT. 
 
 ## My CV 
 [Link to my CV](https://drive.google.com/file/d/18uNv7ZqZprwVte0dIwQLtCVIwvDdhyQ3/view?usp=sharing)
@@ -17,9 +17,9 @@
 ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=ed512f)
 ![SoapUI](https://img.shields.io/badge/SoapUI-white?style=for-the-badge&logo=SoapUI&logoColor=ebe011)
 ![MySQL](https://img.shields.io/badge/MySQL%20Workbench-white?style=for-the-badge&logo=mysql&logoColor=blue)
-[Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=for-the-badge&logo=AndroidStudio)
-[DevTools](https://img.shields.io/badge/DevTools-white?style=for-the-badge&logo=DevTools)
-[Fiddler](https://img.shields.io/badge/Fiddler-white?style=for-the-badge&logo=fiddler&logoColor=199b54)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=for-the-badge&logo=AndroidStudio)
+![DevTools](https://img.shields.io/badge/DevTools-white?style=for-the-badge&logo=DevTools)
+![Fiddler](https://img.shields.io/badge/Fiddler-white?style=for-the-badge&logo=fiddler&logoColor=199b54)
 
 
 ## Test documentation
@@ -34,23 +34,10 @@
 
 
 ## Follow me 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/darya-bialenik-619994332)
-[Gmail](https://img.shields.io/badge/dasha.belenik@gmail.com-white?style=for-the-badge&logo=gmail)
-[Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)(https://t.me/Belochka_02)
-[Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram)(https://www.instagram.com/dasha_belenik/#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/darya-bialenik-619994332)
+![Gmail](https://img.shields.io/badge/dasha.belenik@gmail.com-white?style=for-the-badge&logo=gmail)
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Belochka_02)
+[![Instagram](https://img.shields.io/badge/Instagram-ed3f6d?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dasha_belenik/#)
 
 
-<!--
-**DashaBelenik/DashaBelenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
