@@ -24,8 +24,8 @@
 ## Test documentation
 - [Test Plan](https://docs.google.com/document/d/1QXU1HP3SWJJHkqg90n_vTQ4l62gn2-Zm/edit?usp=drive_link&ouid=116576663011629519024&rtpof=true&sd=true)
 - [Checklists](https://github.com/DashaBelenik/Postman-Collections/blob/main/README.md)
-- Test-Cases
-- Bug-Reports
+- [Test-Cases](https://drive.google.com/file/d/18mnMI6jzrjJ4lgq2XgWmILA1jXSji44p/view?usp=sharing)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1aIDcOZDgDkhle8uFHg64xw0XqyjMOEGHbdTj_yli4ew/edit?usp=sharing)
 - [TRR](https://docs.google.com/document/d/1IyRFnBFGJu-GGxUVvG5ddXrPgvG8yJrl/edit#heading=h.1kvo0e5pwmr6)
 - [SQl Requests](https://drive.google.com/file/d/1uk0TgltbYIivv1VkGS__BJoCzLsuTRFW/view?usp=sharing)
 - [Postman Collections](https://drive.google.com/file/d/1lNJ3XlkQNc74MejGMJCv7ozRHE2Cn0H-/view?usp=sharing)
