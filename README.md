@@ -3,7 +3,7 @@
 ### I am a beginner QA engineer. An open, cheerful person. I have such personal qualities as responsibility, perseverance, attentiveness, punctuality, stress resistance. I have experience in teamwork in the field of trade and in working on the final project on testing courses. I am looking for a job to start my career in the field of IT. 
 
 ## My CV 
-[Link to my CV](https://drive.google.com/file/d/1wwriBkYR1J4azPlQFtmXTalBq7TgsaYI/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1qj3ILGyoF4SriJ409BNw8PJJqVJD_CvQ/view?usp=sharing)
 ## Languages
 - English - A2
 - Russian is a native language
