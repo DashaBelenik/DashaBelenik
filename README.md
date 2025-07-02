@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-### I am a beginner QA engineer. An open, cheerful person. I have such personal qualities as responsibility, perseverance, attentiveness, punctuality, stress resistance. I have experience in teamwork in the field of trade and in working on the final projects on testing courses.There is a great desire to develop in the field of IT and apply all the knowledge gained in practical activities.
+### I am a Junior QA engineer with experience working on a hotel booking commercial project. During my time there, I identified 1,000 bugs ranging from Minor to Critical severity, which contributed to improving the quality of the product. I am skilled at working in a team and effectively collaborating with developers to achieve high-quality results.
 
 ## My CV 
-[Link to my CV](https://drive.google.com/file/d/1hzQaecD_VRknK474ovIDzqL4lwT_eZbO/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1eRfzYV2qVbYljyJAqoZrNqQwZReqhANk/view?usp=sharing)
 ## Languages
 - English - A2
 - Russian is a native language
@@ -21,9 +21,11 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=for-the-badge&logo=AndroidStudio)
 ![DevTools](https://img.shields.io/badge/DevTools-white?style=for-the-badge&logo=DevTools)
 ![Fiddler](https://img.shields.io/badge/Fiddler-white?style=for-the-badge&logo=fiddler&logoColor=199b54)
+![Selenium](https://img.shields.io/badge/Selenium-white?style=for-the-badge&logo=selenium&)
 
 
 ## Test documentation
+- [Work check-lists](https://drive.google.com/drive/folders/12-jAnmwSgckfBeUNF7bSYk3y6os_fnb_?usp=sharing)
 - [SENLA courses](https://github.com/DashaBelenik/SENLA-courses.git)
 - [IT-Academy courses](https://github.com/DashaBelenik/IT-Academy-courses.git)
 - [SQl Requests Study](https://drive.google.com/file/d/1uk0TgltbYIivv1VkGS__BJoCzLsuTRFW/view?usp=sharing), [SQL Requests Work](https://drive.google.com/file/d/1xCYFFWpIVzhzT8qf-nMCpFWPON-fra4g/view?usp=sharing)
