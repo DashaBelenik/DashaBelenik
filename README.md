@@ -26,6 +26,7 @@
 
 ## Test documentation
 - [Work check-lists](https://drive.google.com/drive/folders/12-jAnmwSgckfBeUNF7bSYk3y6os_fnb_?usp=sharing)
+- [Work bug-reports](https://drive.google.com/file/d/1N3_osR673XjLnFR2_rcyAf1yM4-9VM5K/view?usp=sharing)
 - [SENLA courses](https://github.com/DashaBelenik/SENLA-courses.git)
 - [IT-Academy courses](https://github.com/DashaBelenik/IT-Academy-courses.git)
 - [SQl Requests Study](https://drive.google.com/file/d/1uk0TgltbYIivv1VkGS__BJoCzLsuTRFW/view?usp=sharing), [SQL Requests Work](https://drive.google.com/file/d/1xCYFFWpIVzhzT8qf-nMCpFWPON-fra4g/view?usp=sharing)
